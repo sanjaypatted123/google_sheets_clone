@@ -232,4 +232,3 @@
     - Added support for more complex formulas and cell referencing.
     - Incorporated data visualization capabilities. 
 
-# google_sheets_clone
